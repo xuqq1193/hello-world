@@ -2,6 +2,6 @@
 exercise
 
 
-It is a total test file or code.
+It is a test file.
 
 Thanks!
